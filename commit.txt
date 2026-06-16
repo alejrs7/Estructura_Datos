@@ -1,0 +1,7 @@
+commit c5a0ec3a856ff3d5c8d7a4661a119f801fed3646
+Merge: ade9e57 d4b7f92
+Author: David Ruiz <david.a.ruiz@unl.edu.ec>
+Date:   Fri Jun 12 13:12:41 2026 -0500
+
+    Merge branch 'main' of https://github.com/alejrs7/Estructura_Datos
+
